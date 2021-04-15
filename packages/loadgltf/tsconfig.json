@@ -1,0 +1,4 @@
+{
+  "compileOnSave": true,
+  "files": ["src/index.ts"]
+}
